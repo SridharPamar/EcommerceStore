@@ -1,9 +1,3 @@
-//-------------------Online Shopping Store(Ecommerce Store)-----------------------------
-//DSA semester project
-//Submitted by(Muhammad Hozefa Rauf[FA21-BCS-057] 
-//Submitted to(DR. INAYAT UR REHMAN)
-//--------------------------------------------------------------------------------------
-
 
 #include <iostream>
 #include <stdlib.h>
